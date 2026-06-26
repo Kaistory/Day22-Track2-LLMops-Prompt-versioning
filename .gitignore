@@ -23,6 +23,9 @@ env/
 *.swp
 *.swo
 
+# Claude Code (cấu hình/session cục bộ — không commit)
+.claude/
+
 # macOS
 .DS_Store
 
